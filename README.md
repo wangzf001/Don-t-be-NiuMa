@@ -1,6 +1,3 @@
-<img width="1016" height="1536" alt="不做牛马宣言封面2" src="https://github.com/user-attachments/assets/d2f3768e-cb6f-4e43-86c6-c508d32c23be" />
-
-
 ## 《不做牛马宣言》
 
 倡导并践行”不做牛马，纯过日子“的生活方式。
@@ -9,6 +6,8 @@
 
 它不是想要推翻什么，只是想告诉你，那原本属于你的生活，从此刻开始，应该慢慢还给你自己。
 
+
+<img width="1016" height="1536" alt="不做牛马宣言封面2" src="https://github.com/user-attachments/assets/d2f3768e-cb6f-4e43-86c6-c508d32c23be" />
 
 
 
