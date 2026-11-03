@@ -1,5 +1,4 @@
 
-[![License](https://shields.zhamao.xin/badge/License-CC%20BY--NC%204.0-orange)](LICENSE)
 
 ## 《不做牛马宣言》
 
@@ -10,19 +9,9 @@
 它不是想要推翻什么，只是想告诉你，那原本属于你的生活，从此刻开始，应该慢慢还给你自己。
 
 
-- 阅读、下载、个人学习分享免费开放
 
 
-
-
-
-
-
-
-## 其他语言 / Other Languages:
-[English] · [日本語] · [한국어] · [Español]
-
-
+[![License](https://shields.zhamao.xin/badge/License-CC%20BY--NC%204.0-orange)](LICENSE)
 
 
 
