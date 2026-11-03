@@ -8,7 +8,27 @@
 
 
 [![License](https://shields.zhamao.xin/badge/License-CC%20BY--NC%204.0-orange)](LICENSE)
-[![Book](https://shields.zhamao.xin/badge/Book-不做牛马-blue)]
+[![License](https://shields.zhamao.xin/badge/License-CC%20BY--NC%204.0-orange?style=for-the-badge)](LICENSE)
+[![Book](https://shields.zhamao.xin/badge/Book-不做牛马宣言-blue?style=for-the-badge)]
+[![Status](https://shields.zhamao.xin/badge/Status-持续撰写-green?style=for-the-badge)]
+
+> 不做牛马宣言，进入纯过日子时代
+
+## 《不做牛马宣言》
+一本反焦虑、反消费主义的随笔书稿，写给被内卷裹挟的普通人。
+拒绝无止境的消耗、超前消费、盲目奋斗，回归朴素、自洽的生活。
+
+- 阅读、下载、个人学习分享免费开放
+- ❌ **禁止商用、禁止上传到电子书平台付费售卖、禁止做成付费专栏**
+
+[看全文] · [下载书稿] · [更新日志]
+
+## 其他语言 / Other Languages:
+[English] · [日本語] · [한국어] · [Español]
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=wangzf001/Don-t-be-NiuMa&type=Date)](https://star-history.com/#wangzf001/Don-t-be-NiuMa&Date)
+
 
 
 
