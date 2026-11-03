@@ -1,3 +1,4 @@
+<img width="1696" height="2560" alt="不做牛马宣言封面" src="https://github.com/user-attachments/assets/ca9e43bb-6641-473e-a0c7-4e66d5372768" />
 
 
 ## 《不做牛马宣言》
