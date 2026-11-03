@@ -7,8 +7,9 @@
 它不是想要推翻什么，只是想告诉你，那原本属于你的生活，从此刻开始，应该慢慢还给你自己。
 
 
-[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange)](LICENSE)
-[![Book](https://img.shields.io/badge/Book-不做牛马-blue)]
+[![License](https://shields.zhamao.xin/badge/License-CC%20BY--NC%204.0-orange)](LICENSE)
+[![Book](https://shields.zhamao.xin/badge/Book-不做牛马-blue)]
+
 
 
 
